@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Edit Your post Only
+Plugin Name: Edit Your posts Only
 Author: Hardweb.it
 Plugin URI: https://hardweb.it
 Version: 1.0
